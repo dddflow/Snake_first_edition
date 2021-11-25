@@ -18,7 +18,7 @@ void print_list(struct list_node* start_ptr_list)
 		fputs(start_ptr_list->name, file);
 		fputs("\n", file);
 		start_ptr_list = start_ptr_list->ptr_next;
-		// test
+		// test +++
 	}
 }
 
