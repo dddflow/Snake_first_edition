@@ -9,6 +9,7 @@
 FILE* file;
 
 struct list_node* rec = NULL;
+int dkjskjs = 0;
 
 void print_list(struct list_node* start_ptr_list)
 {
